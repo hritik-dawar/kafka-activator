@@ -1,0 +1,11 @@
+*.jpeg binary
+vendor/* linguist-vendored
+
+package-lock.json linguist-generated
+
+public/* linguist-vendored
+*.png binary
+*.svg text
+src/*.astro linguist-detectable
+node_modules/* linguist-vendored
+*.astro linguist-detectable
